@@ -20,6 +20,8 @@
   "homepage": "https://github.com/Obrienjames34/OBrien-Social-Network#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "mongoose": "^6.6.1"
+    "mongoose": "^6.6.1",
+    "node": "^18.9.0",
+    "schema": "^0.2.1"
   }
 }
